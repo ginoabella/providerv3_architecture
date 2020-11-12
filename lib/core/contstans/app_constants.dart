@@ -2,7 +2,7 @@
 // in a class. Then you'll have to make sure that system wide you don't have
 // duplicate variable names.
 class RoutePaths {
-  static const String Login = 'login';
-  static const String Home = '/';
-  static const String Post = 'post';
+  static const String LoginView = 'login';
+  static const String HomeView = '/';
+  static const String PostView = 'post';
 }
